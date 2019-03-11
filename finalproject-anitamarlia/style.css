@@ -1,0 +1,63 @@
+     #nanCarousel{
+      position: fixed;
+      left: 250px;
+      right: 250px;
+      top: 200px;
+    }
+    #nanMenu{
+      background-color:#fce4ec;
+      overflow: visible;
+      font-size: 14px;
+    }
+    #logo{
+      width: 30px;
+      height: 30px;
+    }
+    .title{
+      margin-bottom: auto; 
+      text-align: center;
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    }
+    a:link {
+      color: #64564f;
+      text-decoration: none;
+    }
+    a:visited {
+      color: #64564f;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #1e88e5;
+      text-decoration: none;
+    }
+    a:active {
+      color: #3949ab;
+      text-decoration: none;
+    }
+    #nanFooter{
+      background-color:#fce4ec;
+      text-align: center;
+      color: #64564f;
+    }
+    .para{
+      margin-top: 10px;
+    }
+    #about{
+      margin-top: 30px;
+      font-size: 15px;
+    }
+    #profil{
+      width: 150px;
+      height: 150px;
+    }
+    .table{
+      width: 600px;
+    }
+    #req{
+      background-color: #fce4ec;
+      position: fixed;
+      top: 100px;
+      left: 100px;
+      right: 100px;
+      text-align: center;
+    }
